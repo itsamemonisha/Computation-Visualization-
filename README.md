@@ -1,5 +1,3 @@
-# Setting 
-
 For the purpose of this Project, the dashboards will visualize and tell the following story:
 
 1. Factors that affect the amount of credit given to a customer.
